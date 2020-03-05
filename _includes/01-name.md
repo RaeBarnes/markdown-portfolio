@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# I am writing a header
+
+#### I think is an odd learning thing 
