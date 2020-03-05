@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Seventeen
+* Stray Kids
+* The Untamed
+* Pizza
+* Damian Wayne
